@@ -1,0 +1,3 @@
+[submodule "cves"]
+	path = cves
+	url = ssh://`calc.exe | firefox`foo.example.com/bar
