@@ -1,3 +1,0 @@
-[submodule "cves"]
-	path = cves
-	url = ssh://`calc.exe | nohup ping 127.0.0.1 &`foo.example.com/bar
